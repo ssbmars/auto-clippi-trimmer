@@ -1,10 +1,13 @@
-# How to use
+# How to Use
 This is a python script, so you must install a Python interpreter on your PC before it will work.  
 For Windows 10+, you can install it from the Microsoft Store by searching for "Python".  
 
 You can confirm whether Python is installed by launching a cmd window and typing the following:  
 `python --version`  
 If the command is recognized and returns a version number, then Python is installed.  
+Example:  
+`>python --version
+Python 3.9.11`
 
 Follow this guide for detailed steps: https://realpython.com/run-python-scripts/  
 
