@@ -35,5 +35,5 @@ You can modify how many frames get trimmed off the clips by editing `trim_clippi
 
 
 # About
-Thank you to @monnorail#0471 on the Slippi Discord for writing and sharing this script.  
+Thank you to @monorail#0471 on the Slippi Discord for writing and sharing this script.  
 I don't have any experience with writing Python scripts myself, so please don't make any feature requests.
