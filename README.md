@@ -6,8 +6,8 @@ You can confirm whether Python is installed by launching a cmd window and typing
 `python --version`  
 If the command is recognized and returns a version number, then Python is installed.  
 Example:  
-`>python --version  
-Python 3.9.11`
+`>python --version`  
+`Python 3.9.11`
 
 If these steps aren't working for you, then follow this guide: https://realpython.com/run-python-scripts/  
 
