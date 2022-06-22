@@ -21,7 +21,7 @@ If this lazy explanation isn't working for you, then follow this detailed guide:
 #### 2) Download and unzip this repo, copy `trim_clippis.py` to the folder where Project Clippi generates its json files.  
 The `Output File` path in Project Clippi's "Replay Processor" tab will determine where the json file is saved. You may prefer to put all these files in the same folder, or you may want to isolate `trim_clippis.py` in its own folder and copy over specific json files for it to process.  
 You can also copy `trim_clippis.bat` into the same directory as its `.py` namesake if you don't want to run the script manually.  
-You can make a shortcut of this batch file if you want a more convenient way of running it.  
+You can make a shortcut of this batch file and put it somewhere convenient for easy access.  
 
 #### 3) In the directory where `trim_clippis.py` resides, run `trim_clippis.bat` or open a cmd window and enter the following command:  
 ```
